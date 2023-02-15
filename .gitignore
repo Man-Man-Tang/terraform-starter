@@ -1,0 +1,8 @@
+# state files
+*.tfstate*
+
+# env variable file
+*.tfvars
+
+# provider
+.terraform/*
